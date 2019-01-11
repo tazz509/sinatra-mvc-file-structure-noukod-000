@@ -9,7 +9,7 @@ def initialize (name:, breed:, age:)
   @age = age
 end
 
-def self.all?
+def self.all
   @@all = []
 end
   
